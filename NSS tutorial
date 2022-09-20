@@ -13,3 +13,8 @@ SELECT A_STRONGLY_AGREE
    AND subject='(8) Computer Science'
    
    
+SELECT constituency, party
+FROM ge x
+WHERE constituency BETWEEN 'S14000021' AND 'S14000026'
+AND yr  = 2017 AND votes >= ALL(SELECT votes FROM ge y  WHERE x.constituency = y. constituency AND y.yr = 2017)
+ORDER BY constituency,votes DESC
