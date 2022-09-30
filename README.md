@@ -1,4 +1,4 @@
-# My-SQL-journey  SQL ZOO tutorial
+# My-SQL-journey: SQL ZOO tutorial
 My sql learning journey from scratch 
 
 
