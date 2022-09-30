@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bc5b021-089a-422b-883f-c26228332fc2" name="Changes" comment="sql" />
+    <list default="true" id="8bc5b021-089a-422b-883f-c26228332fc2" name="Changes" comment="sql">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SELECT basics" beforeDir="false" afterPath="$PROJECT_DIR$/SELECT basics" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SELECT names" beforeDir="false" afterPath="$PROJECT_DIR$/SELECT names" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +37,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -76,6 +82,7 @@
       <workItem from="1663641722845" duration="620000" />
       <workItem from="1663642465262" duration="124000" />
       <workItem from="1664246181717" duration="153000" />
+      <workItem from="1664565857224" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="sql">
       <created>1663642587688</created>
@@ -105,5 +112,16 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="sql" />
     <option name="LAST_COMMIT_MESSAGE" value="sql" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
