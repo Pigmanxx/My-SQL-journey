@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8bc5b021-089a-422b-883f-c26228332fc2" name="Changes" comment="sql">
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SELECT names.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SELECT names.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +88,7 @@
       <workItem from="1663642465262" duration="124000" />
       <workItem from="1664246181717" duration="153000" />
       <workItem from="1664565857224" duration="302000" />
-      <workItem from="1664566259147" duration="919000" />
+      <workItem from="1664566259147" duration="1269000" />
     </task>
     <task id="LOCAL-00001" summary="sql">
       <created>1663642587688</created>
