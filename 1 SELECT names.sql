@@ -65,5 +65,3 @@ SELECT name, REPLACE(capital,name,'') as ext
   FROM world
 WHERE capital LIKE CONCAT('%',name,'%')
 AND   LEN(capital) > LEN(name);
-
-
