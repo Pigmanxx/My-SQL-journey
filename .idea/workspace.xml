@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bc5b021-089a-422b-883f-c26228332fc2" name="Changes" comment="sql">
-      <change afterPath="$PROJECT_DIR$/SELECT from WORLD Tutorial" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3 SELECT from Nobel Tutorial" beforeDir="false" afterPath="$PROJECT_DIR$/3 SELECT from Nobel Tutorial" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +102,7 @@
       <workItem from="1663642465262" duration="124000" />
       <workItem from="1664246181717" duration="153000" />
       <workItem from="1664565857224" duration="302000" />
-      <workItem from="1664566259147" duration="3636000" />
+      <workItem from="1664566259147" duration="4917000" />
     </task>
     <task id="LOCAL-00001" summary="sql">
       <created>1663642587688</created>
@@ -139,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664568065428</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="sql">
+      <created>1664569935428</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664569935428</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
