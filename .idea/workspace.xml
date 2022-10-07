@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bc5b021-089a-422b-883f-c26228332fc2" name="Changes" comment="sql" />
+    <list default="true" id="8bc5b021-089a-422b-883f-c26228332fc2" name="Changes" comment="sql">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6 The JOIN operation.sql" beforeDir="false" afterPath="$PROJECT_DIR$/6 The JOIN operation.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7 More JOIN operations.sql" beforeDir="false" afterPath="$PROJECT_DIR$/7 More JOIN operations.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,6 +107,7 @@
       <workItem from="1664581350116" duration="883000" />
       <workItem from="1664583854271" duration="5140000" />
       <workItem from="1664807757948" duration="3604000" />
+      <workItem from="1665109489452" duration="830000" />
     </task>
     <task id="LOCAL-00001" summary="sql">
       <created>1663642587688</created>
